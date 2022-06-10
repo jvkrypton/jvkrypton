@@ -5,11 +5,11 @@
 - 🖥️ Working with programming for over 8 years
 
 ### Skills
- - Desktop development languages: C#, C++, Pascal, Java, Lua; 
+ - Desktop development languages: C#, C++, Pascal; 
  - Web development languages: PHP;
  - Database: MongoDB, PostgreSQL, Mysql;
  - Web skills: HTML, CSS, JavaScript;
  - Other languages: Nodejs;
 
 ### Experiences
-  - Plenty of experience with building applications for Desktop (Windows) and website development. I also work with reverse engineering and memory manipulation of applications and games.
+  - I have experience with web development and desktop application development. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
