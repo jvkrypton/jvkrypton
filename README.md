@@ -1,7 +1,6 @@
 ## Hi, I'm Victor!
 ### About
 - 📚 Computer Science Student at the Federal University of Sergipe
-- 🔭 I’m currently working on Destiny Community
 - 🖥️ Working with programming for over 8 years
 
 ### Skills
