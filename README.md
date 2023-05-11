@@ -12,4 +12,4 @@
  - Other languages: Nodejs;
 
 ### Experiences
-  - I have experience with web development and desktop application development. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
+  - I have experience with web development and desktop application development. I also have knowledge of reverse engineering applications.
